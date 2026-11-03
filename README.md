@@ -13,12 +13,16 @@
 Master of Management in Analytics student · McGill University  
 Bachelor of Computing (Honours) · Queen's University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5badbe?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natasha-sujitharaj)
-[![Email](https://img.shields.io/badge/Email-5badbe?style=flat-square&logo=gmail&logoColor=white)](mailto:natasha.sujitharaj@mail.mcgill.ca)
-[![Spotify](https://img.shields.io/badge/Spotify-5badbe?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/22gwirnnklnft7f5e675hq72a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-548999?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natasha-sujitharaj)
+[![Email](https://img.shields.io/badge/Email-548999?style=flat-square&logo=gmail&logoColor=white)](mailto:natasha.sujitharaj@mail.mcgill.ca)
+[![Spotify](https://img.shields.io/badge/Spotify-548999?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/22gwirnnklnft7f5e675hq72a)
 
 Interests: Software Engineering, Machine Learning, and Data Science
 
 Hobbies: Crocheting, creating art, making crafts, playing guitar and piano, singing, and bringing random project ideas to life
 
 <br clear="all">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Natasha246&theme=noctis-minimus&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=natasha246&color=168acb&style=flat-square&label=Profile+Views)
