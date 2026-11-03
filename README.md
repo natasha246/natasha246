@@ -20,9 +20,3 @@ Bachelor of Computing (Honours) · Queen's University
 Interests: Software Engineering, Machine Learning, and Data Science
 
 Hobbies: Crocheting, creating art, making crafts, playing guitar and piano, singing, and bringing random project ideas to life
-
-<br clear="all">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Natasha246&theme=noctis-minimus&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=natasha246&color=168acb&style=flat-square&label=Profile+Views)
